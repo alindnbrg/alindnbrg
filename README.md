@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @alindnbrg
-- 👀 I’m interested in automating the modernization of IT systems
-- 🌱 I’m currently learning about how graph theory can be used to explore legacy applications
-- 💞️ I’m looking to collaborate on graph visualization projects
-- 📫 Reach me here https://twitter.com/alindnbrg
+- 👀 I specialize in automating the modernization of IT systems
+- 🌱 I' m curious about how information graphs can be used to understand legacy applications
+- 💞️ I'm interested in collaborating on graph visualization projects
+- 📫 Reach me on Twitter at https://twitter.com/alindnbrg
 
 <!---
 alindnbrg/alindnbrg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
